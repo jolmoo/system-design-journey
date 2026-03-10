@@ -1,7 +1,7 @@
 # Distributed Architecture with Load Balancing
 
 A hands-on system design project to understand how distributed architectures work.
-Build with Docker, NGINX, Flask and PostGreSQL
+Built with Docker, NGINX, Flask and PostgreSQL
 
 
 ## Architecture
