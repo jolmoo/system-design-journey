@@ -7,7 +7,7 @@ Each project focuses on a different concept of distributed systems.
 
 | # | Project | Concepts |
 |---|---------|----------|
-| 01 | [Docker Load Balancer](./01-docker-load-balancer) | Load balancing, fault tolerance, containerization |
+| 01 | [Docker Load Balancer](01-docker-load-balancer) | Load balancing, fault tolerance, containerization |
 
 ## About
 
