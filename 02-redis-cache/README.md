@@ -9,6 +9,7 @@ Built with Docker, NGINX, Flask, Redis and PostgreSQL.
 ## Architecture
 
 ![Architecture Diagram](diagram.png)
+
 *If Redis is down, the API goes directly to PostgreSQL*
 
 ## Technologies
