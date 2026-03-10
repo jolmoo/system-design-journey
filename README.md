@@ -8,6 +8,7 @@ Each project focuses on a different concept of distributed systems.
 | # | Project | Concepts |
 |---|---------|----------|
 | 01 | [Docker Load Balancer](01-docker-load-balancer) | Load balancing, fault tolerance, containerization |
+| 02 | [Redis Cache Layer](02-redis-cache) | Caching, cache hit/miss, TTL, fallback |
 
 ## About
 
