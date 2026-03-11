@@ -6,7 +6,7 @@ A hands-on system design project to understand how asynchronous job queues work 
 Built with Docker, NGINX, Flask, Redis and PostgreSQL.
 
 ## Architecture
-
+![diagram](diagram.png)
 If one API instance receives the job creation request, another API instance can still read its status later because everything is stored centrally in PostgreSQL and Redis.
 
 ## Technologies
